@@ -1,0 +1,92 @@
+! 1/21/2019, 10:02:21 PM https://quatrorodas.abril.com.br/auto-servico/a-serie-b-das-marcas-e-fabricantes-de-pneus/
+quatrorodas.abril.com.br##.piano-offer-overlay
+
+! 1/21/2019, 10:02:35 PM https://quatrorodas.abril.com.br/auto-servico/a-serie-b-das-marcas-e-fabricantes-de-pneus/
+quatrorodas.abril.com.br###piano_offer
+
+! Clicrbs Paywall
+api.clicrbs.com.br/paywall-api
+
+! 3/7/2019 https://rarbgproxied.org
+rarbgproxied.org###lkfj
+
+||dyncdn.me/static/20/js/expla89.js
+||dyncdn2.com/static/20/js/expla89.js
+||s4yxaqyq95.com^
+
+https://s.4cdn.org/image/partyhat.gif
+https://s.4cdn.org/image/xmashat.gif
+
+! 1/31/2020 https://www.ghacks.net
+www.ghacks.net##.t9mjcsjwynyi
+www.ghacks.net##.vj1dw6iw4lab
+
+! https://github.com/uBlockOrigin/uAssets/issues/2044
+pinterest.*##[data-test-giftwrap]
+pinterest.*###desktopWrapper:style(position: static !important;)
+pinterest.*##.gridCentered:style(margin-top: auto !important;)
+! https://github.com/uBlockOrigin/uAssets/issues/5030
+pinterest.*##div[data-test-id="giftWrap"]
+pinterest.*##div[class="Closeup__wrapper"] > div > div[style^="cursor: default"]
+!pinterest.*##div:nth-of-type(2) > div > div > div > .Hsu.iyn.zI7 > div.Hsu.iyn.zI7:nth-of-type(2) > div
+pinterest.*##div[class="GrowthUnauthPinImage__imageDim"]
+pinterest.*##div[style^="filter:"]:style(filter: none !important)
+pinterest.*##.GrowthUnauthPinImage > a > div[class^="Jea"]:has(button[class^="noButtonStyles "])
+pinterest.*##.Hsu.iyn.zI7:nth-of-type(2) > div > .FullPageModal__scroller
+
+||static.infoglobo.com.br/paywall/*
+
+youtube.com,youtube-nocookie.com##.ytp-expand-pause-overlay .ytp-pause-overlay
+
+! 7/16/2020 https://sci-hub.tw
+||sci-hub.tw/misc/img/888.gif$image
+
+! 2020-11-10 https://vipr.im
+||chaturbate.com/in/?track=viprtopF&tour=6o0b&campaign=c3mKf&disable_sound=1&embed_video_only=0&target=_parent&mobileRedirect=never&$subdocument
+
+! 2020-11-16 https://sci-hub.st
+||sci-hub.st/misc/img/888.gif$image
+
+! 2020-12-02 https://filewarez.tv
+||filewarez.tv/dbtech/vbsuper_pm/clientscript/moveobj.js$script,1p
+
+! 2021-02-27 https://boards.4channel.org
+||i.4cdn.org/vip/1614445410469.gif$image,domain=boards.4channel.org
+
+! 2021-03-30 https://www.eurogamer.net
+www.eurogamer.net##.ot-fade-in.onetrust-pc-dark-filter
+
+! 2021-06-07 https://br.investing.com
+br.investing.com##.adBlock-popup_popup--adblock-detected__fu1VO
+br.investing.com###__next > .overlay_overlay__LXlPB
+
+! 2021-03-27 https://www.oantagonista.com
+||cdn.oantagonista.net/assets/js/novowallcontent*.js$script,domain=www.oantagonista.com
+
+! 2021-05-07 https://www.oantagonista.com
+||cdn.oantagonista.net/assets/js/wallcontentscript*.js?v1$script,domain=www.oantagonista.com
+
+! 2021-06-16 https://www.oantagonista.com
+||cdn.oantagonista.net/assets/js/wallcontentscript*.js$script,domain=www.oantagonista.com
+
+! 2021-07-02 https://www.oantagonista.com
+||tags.premiumads.com.br/dfp/*$script,domain=www.oantagonista.com
+||cdn.oantagonista.com/assets/js/wallcontentscript-*-A.js$script,domain=www.oantagonista.com
+
+! 2021-07-07 https://www.oantagonista.com
+www.oantagonista.com##.lightbox_position_menu_fechado.oa-lightbox-show.lightbox-push
+www.oantagonista.com##.lightbox_position_menu_aberto.oa-lightbox-show.lightbox-push
+www.oantagonista.com###wallcontent
+
+! 2021-07-08 https://www.oantagonista.com
+||cdn.oantagonista.com/assets/js/wallcontentscript-*.js$script,domain=www.oantagonista.com
+
+! 2021-07-16 https://www.oantagonista.com
+www.oantagonista.com##.active.container-leaderboard-footer
+
+! 2021-07-16 https://www.rockpapershotgun.com
+www.rockpapershotgun.com##.ot-fade-in.onetrust-pc-dark-filter
+
+! 2021-09-02 https://www.videogameschronicle.com
+www.videogameschronicle.com###ccc-overlay
+
