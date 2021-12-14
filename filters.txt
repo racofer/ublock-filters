@@ -92,3 +92,7 @@ www.rockpapershotgun.com##.ot-fade-in.onetrust-pc-dark-filter
 ! 2021-09-02 https://www.videogameschronicle.com
 www.videogameschronicle.com###ccc-overlay
 
+||cdn.adt511.net^$script
+
+! 2021-12-14 https://www.oantagonista.com
+||cdn.oantagonista.com/assets/js/wallcontent-builder-*.js?v=2$script,domain=www.oantagonista.com
