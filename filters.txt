@@ -96,3 +96,6 @@ www.videogameschronicle.com###ccc-overlay
 
 ! 2021-12-14 https://www.oantagonista.com
 ||cdn.oantagonista.com/assets/js/wallcontent-builder-*.js?v=2$script,domain=www.oantagonista.com
+
+! 2022-02-10 https://www.oantagonista.com
+||cdn.oantagonista.com/assets/js/*$script,domain=www.oantagonista.com
