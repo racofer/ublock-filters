@@ -99,3 +99,6 @@ www.videogameschronicle.com###ccc-overlay
 
 ! 2022-02-10 https://www.oantagonista.com
 ||cdn.oantagonista.com/assets/js/*$script,domain=www.oantagonista.com
+
+! 2022-03-09 https://oantagonista.uol.com.br
+oantagonista.uol.com.br###oa-lightbox > .lightbox-push-container.text-align-center.lightBox-content-centralizado.lightbox-push-content
