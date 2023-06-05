@@ -102,3 +102,6 @@ www.videogameschronicle.com###ccc-overlay
 
 ! 2022-03-09 https://oantagonista.uol.com.br
 oantagonista.uol.com.br###oa-lightbox > .lightbox-push-container.text-align-center.lightBox-content-centralizado.lightbox-push-content
+
+! 2023-06-05 https://br.investing.com
+br.investing.com##.justify-center.items-center.flex.z-12.bg-\[\#10161ab3\].inset-0.fixed
